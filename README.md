@@ -1,0 +1,1 @@
+El presente codigo tiene como proposito realizar un raspado web (scraping) con librerias de python, sumado a esto, la informacion recolectada sera guardada en una base de datos MySQL creada en la nube de AZURE

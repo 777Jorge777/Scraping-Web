@@ -1,0 +1,10 @@
+create table mysql.noticie
+(
+    id          int auto_increment
+        primary key,
+    name        varchar(150)                        null,
+    descripcion longtext                            null,
+    image       longtext                            null,
+    fecha       longtext                            null,
+    fecha_ins   timestamp default CURRENT_TIMESTAMP null
+);
